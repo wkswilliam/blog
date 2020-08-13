@@ -9,4 +9,8 @@ Hey!
 
 ## My title!
 1. This
+    <p class="w_p" > This is my paragraph :D</p>
+
 2. That
+
+<script> console.log("scripting")</script> 

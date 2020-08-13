@@ -28,7 +28,8 @@ url: "https://wkswilliam.github.io" # the base hostname & protocol for your site
 github_username:  wkswilliam
 
 # Build settings
-theme: minima
+# Removed minima theme as it is now a regular theme
+# theme: minima
 plugins:
   - jekyll-feed
 
